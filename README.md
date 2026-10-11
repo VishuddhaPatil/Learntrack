@@ -128,6 +128,22 @@ The application stores data in memory using collections. Data is reset when the 
 
 
 
+\## Input Validation and Error Handling
+
+
+
+The application validates console input and handles invalid entries using exception handling. It also prevents duplicate active enrollments and checks entity availability before performing operations.
+
+
+
+\## Testing
+
+
+
+The project includes Java test files for student and management service functionality.
+
+
+
 \## Author
 
 Vishuddha Patil
